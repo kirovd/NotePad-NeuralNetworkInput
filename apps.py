@@ -9,7 +9,6 @@ font_but.setFamily("Segoe UI Symbol")
 font_but.setPointSize(10)
 font_but.setWeight(95)
 
-
 class PushBut1(QtWidgets.QPushButton):
     def __init__(self, parent=None):
         super(PushBut1, self).__init__(parent)
